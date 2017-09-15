@@ -1,0 +1,49 @@
+
+/* THIS IS THE FIRST BUBBLE WITH THE PICTURE*/
+
+.jumbotron {
+}
+
+.jon {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	height: auto;
+}
+
+.words{
+	font-weight: bold;
+}
+
+
+.animal1 {
+	max-width: 100%; 
+	width: auto;
+	float: left;
+	border-radius: 1.3rem;
+	margin: 10px;
+	border: 3px solid black
+}
+
+.animal2 {
+	max-width: 100%;
+	width: auto;
+	float: right;
+	border-radius: 1.3rem;
+	border: 3px solid black;
+}
+
+/* SECOND BUBBLE */
+.description {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	padding: 4rem 2rem;
+	background-color: whitesmoke;
+	border: 3px solid #005CFF;
+	border-radius: .3rem;
+}
+
+h1 {
+	font-family: 'Bree Serif', serif;
+}
+
